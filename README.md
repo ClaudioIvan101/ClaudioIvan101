@@ -10,14 +10,7 @@
 </p>
 
 <!-- Divider -->
-<p align="center">
-  <img src="https://svgur.com/i/13r4.svg" width="100%" alt="divider"/>
-</p>
-
-## 🚀 Sobre mí
-Desarrollador **Java** enfocado en back-end, autodidacta y muy práctico.  
-Disfruto trabajar en proyectos donde pueda resolver problemas reales, mejorar procesos, escribir código limpio y mantenible.
-En GitHub vas a ver una mezcla de **proyectos de estudio, prácticas, ideas pequeñas, y cosas que estoy aprendiendo día a día**. Todo forma parte del camino.
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="dev" /></p>
 ---
 
 ## 🔧 Tecnologías
@@ -52,6 +45,15 @@ En GitHub vas a ver una mezcla de **proyectos de estudio, prácticas, ideas pequ
 
 ---
 
+## 🎓 Formación
+**UTN — Tecnicatura Universitaria en Programación (Cursando)**  
+
+---
+
+## 🚀 Sobre mí
+Desarrollador **Java** enfocado en back-end, autodidacta y muy práctico.  
+Disfruto trabajar en proyectos donde pueda resolver problemas reales, mejorar procesos, escribir código limpio y mantenible.
+En GitHub vas a ver una mezcla de **proyectos de estudio, prácticas, ideas pequeñas, y cosas que estoy aprendiendo día a día**. Todo forma parte del camino.
 ## 🧩 Cómo me gusta trabajar
 - Código simple y mantenible  
 - Buenas prácticas (SOLID, arquitectura limpia)  
@@ -61,10 +63,6 @@ En GitHub vas a ver una mezcla de **proyectos de estudio, prácticas, ideas pequ
 
 ---
 
-## 🎓 Formación
-**UTN — Tecnicatura Universitaria en Programación (Cursando)**  
-
----
 
 ## 📊 GitHub Stats
 <p align="center">
