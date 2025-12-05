@@ -1,110 +1,90 @@
-<!-- Banner / título -->
-<h1 align="center">Claudio Gomez — Programador</h1>
+<!-- Header con estilo personal -->
+<h1 align="center">👋 ¡Hola! Soy Claudio Gomez</h1>
+
 <p align="center">
-  <em>Desarrollador Java con foco en back-end. Organizado, resolutivo y orientado a buenas prácticas.</em>
+  <strong>Programador Java | Backend Developer </strong>
 </p>
 
-<!-- Línea divisoria con gradiente (ligero truco con svg) -->
+<p align="center">
+  <em>Me gusta crear software útil, aprender nuevas tecnologías y mejorar un poquito cada día.</em>
+</p>
+
+<!-- Divider -->
 <p align="center">
   <img src="https://svgur.com/i/13r4.svg" width="100%" alt="divider"/>
 </p>
 
-<!-- Contacto -->
-<p align="center">
-  <a href="mailto:claudiogomez.work1@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-claudiogomez.work1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/ClaudioIvan101">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-ClaudioIvan101-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="tel:+543624059876">
-    <img alt="Teléfono" src="https://img.shields.io/badge/Teléfono-%2B54%203624059876-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a>
-</p>
-
+## 🚀 Sobre mí
+Desarrollador **Java** enfocado en back-end, autodidacta y muy práctico.  
+Disfruto trabajar en proyectos donde pueda resolver problemas reales, mejorar procesos, escribir código limpio y mantenible.
+En GitHub vas a ver una mezcla de **proyectos de estudio, prácticas, ideas pequeñas, y cosas que estoy aprendiendo día a día**. Todo forma parte del camino.
 ---
 
-## 👤 Perfil profesional
-Soy desarrollador **Java** con enfoque en **back-end**, organizado y resolutivo. Me destaco por la rápida identificación y solución de problemas, el trabajo en equipo y la toma de decisiones bajo presión. Busco crecer profesionalmente en un entorno dinámico donde aplicar mis conocimientos y seguir aprendiendo nuevas tecnologías.
+## 🔧 Tecnologías
 
----
-
-## 🛠️ Competencias técnicas
-
-**Lenguajes**
-  
+### **Lenguajes**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-**Frameworks**
-  
+### **Frameworks & Backend**
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
-**Bases de datos**
-  
+### **Bases de datos**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-**Control de versiones**
-  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-**Frontend (básico)**
-  
+### **Frontend básico**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Automatización**
-  
+### **Herramientas**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/IA-ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/IA-GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
-
-**Metodologías ágiles**
-  
-![Lean](https://img.shields.io/badge/Lean-0B8A8A?style=flat-square)
-![Scrum](https://img.shields.io/badge/Scrum-6C63FF?style=flat-square&logo=scrumalliance&logoColor=white)
-![Kanban](https://img.shields.io/badge/Kanban-00A884?style=flat-square)
+![Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 
 ---
 
-## 🧠 Habilidades blandas
-- Trabajo en equipo
-- Proactividad
-- Comunicación efectiva
-- Pensamiento analítico
-- Resolución de problemas
-- Gestión del tiempo
-- Adaptabilidad
-- Escucha activa
-- Atención al detalle
-- Aprendizaje continuo
+## 📚 Actualmente aprendiendo
+- Spring Boot a nivel más profesional  
+- Patrones de diseño aplicados a backend  
+- Automatización e integración de herramientas IA con desarrollo  
 
 ---
 
-## 🧩 Formas de trabajo
-- Arquitectura **MVC**
-- Principios **SOLID**
-- Mejora continua aplicada al trabajo diario
-- Documentación clara y orientada al equipo
-- Enfoque en **buenas prácticas** de desarrollo
-- Trabajo colaborativo
-- Organización y **código limpio**
-- Trabajo guiado por estándares y procesos
-- Comprensión de **patrones de diseño** básicos
+## 🧩 Cómo me gusta trabajar
+- Código simple y mantenible  
+- Buenas prácticas (SOLID, arquitectura limpia)  
+- Documentación clara  
+- Iteración rápida y mejora continua  
+- Entender el *por qué*, no solo el *cómo*  
 
 ---
 
-## 🎓 Formación académica
-**Universidad Tecnológica Nacional (UTN)** — *Cursando*  
-**Tecnicatura Universitaria en Programación**
----
-## 📈 Stats rápidas
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ClaudioIvan101&show_icons=true&hide_title=true&count_private=true&hide=contribs" height="130" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioIvan101&layout=compact" height="130" />
-</p>
+## 🎓 Formación
+**UTN — Tecnicatura Universitaria en Programación (Cursando)**  
 
-<!-- Footer -->
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  <sub>Siempre aprendiendo y aportando en equipos con buenas prácticas y foco en calidad.</sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=ClaudioIvan101&show_icons=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioIvan101&layout=compact" height="150" />
 </p>
+
+---
+
+## 📫 Contacto
+<p align="center">
+  <a href="mailto:claudiogomez.work1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-claudiogomez.work1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/ClaudioIvan101">
+    <img src="https://img.shields.io/badge/GitHub-ClaudioIvan101-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  <sub>Gracias por pasar por mi perfil 🙌</sub>
+</p>
+
